@@ -8,7 +8,7 @@ Hi, I'm Micah Ezirim, a detail-driven Data Analyst with a passion for uncovering
 - **[Python(Pandas, NumPy, Matplotlib,Seaborn](https://github.com/Micahnd/Home-Advantage-in-Spanish-La-Liga-2012-2023)** (Used extensively for data cleaning, wrangling, analysis, and visualization)
 - **SQL** (MySQL, PostgreSQL – experience showcased in smaller tasks, full project coming soon)
 - **[Power BI](https://github.com/Micahnd/Profit-Drivers-and-Trends-in-the-US-and-UK-Film-Industry-2010-2023)** (Dashboards, DAX, Data Modeling)
-- **Excel** (Advanced Formulas, Pivot Tables – practical use, project still in progress)
+- **[Excel](https://github.com/Micahnd/Telco-Customer-Churn-Analysis-excel)** (Advanced Formulas, Pivot Tables, combo charts, barcharts, donut charts.)
 - **Git & GitHub** (Version Control, Collaboration)
 - **HTML & CSS** (Basic Front-End Data Presentation)
 
